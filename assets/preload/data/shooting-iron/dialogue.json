@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tankm-d",
+			"boxState": "normal",
+			"expression": "yea",
+			"text": "Not bad dude, but this time I won't go easy on ya-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sashi-d",
+			"boxState": "normal",
+			"expression": "disgusted",
+			"text": "Why are you two taking so long over here"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sashi-d",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm bored out my mind in the van, can't you just shoot em in the head and be done with it"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tankm-d",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sorry luv, we kinda found a way to settle it easier ya know"
+		},
+		{
+			"sound": "",
+			"speed": 0.21,
+			"portrait": "sashi-d",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " . . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sashi-d",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fine, just one more song, then we're outta here"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tankm-d",
+			"boxState": "normal",
+			"expression": "yea",
+			"text": "Got it!"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "snow",
+		"player1": "brandon",
+		"player2": "tankey",
+		"player3": null,
+		"events": [
+			[
+				83270.2702702703,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"GF"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "satoshi",
+		"bpm": 185,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Shooting Iron"
+	}
+}
