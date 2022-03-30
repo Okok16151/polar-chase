@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bran.png">
+
+	<SubTexture name="idle0000" x="10" y="10" width="2048" height="2012"/>
+    <SubTexture name="happy0000" x="2078" y="10" width="2048" height="2012"/>
+
+</TextureAtlas>

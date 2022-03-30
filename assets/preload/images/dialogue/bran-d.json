@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 0.249999999999999,
+	"animations": [
+		{
+			"loop_name": "idle",
+			"idle_offsets": [
+				920,
+				810
+			],
+			"idle_name": "idle",
+			"anim": "idle",
+			"loop_offsets": [
+				920,
+				810
+			]
+		},
+		{
+			"loop_name": "happy",
+			"idle_offsets": [
+				920,
+				810
+			],
+			"idle_name": "happy",
+			"anim": "happy",
+			"loop_offsets": [
+				920,
+				810
+			]
+		}
+	],
+	"image": "bran"
+}

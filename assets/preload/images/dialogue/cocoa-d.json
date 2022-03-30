@@ -1,0 +1,37 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "center",
+	"scale": 0.249999999999999,
+	"image": "cocoa",
+	"animations": [
+		{
+			"loop_offsets": [
+				810,
+				830
+			],
+			"anim": "idle",
+			"idle_offsets": [
+				810,
+				830
+			],
+			"loop_name": "idle",
+			"idle_name": "idle"
+		},
+		{
+			"loop_offsets": [
+				920,
+				810
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				920,
+				810
+			],
+			"loop_name": "happy",
+			"idle_name": "happy"
+		}
+	]
+}

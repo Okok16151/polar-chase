@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cocoa.png">
+
+	<SubTexture name="idle0000" x="10" y="10" width="2048" height="2012"/>
+
+</TextureAtlas>

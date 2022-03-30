@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 0.249999999999999,
+	"animations": [
+		{
+			"idle_offsets": [
+				670,
+				790
+			],
+			"anim": "worried",
+			"loop_offsets": [
+				670,
+				790
+			],
+			"idle_name": "worried",
+			"loop_name": "worried"
+		},
+		{
+			"idle_offsets": [
+				670,
+				790
+			],
+			"anim": "yea",
+			"loop_offsets": [
+				670,
+				790
+			],
+			"idle_name": "yea",
+			"loop_name": "yea"
+		}
+	],
+	"image": "tankm"
+}

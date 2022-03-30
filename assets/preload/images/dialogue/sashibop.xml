@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sashibop.png">
+
+	<SubTexture name="annoyed0000" x="10" y="10" width="303" height="416"/>
+	<SubTexture name="disgusted0000" x="333" y="10" width="303" height="416"/>
+
+</TextureAtlas>

@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "annoyed",
+			"idle_offsets": [
+				-160,
+				0
+			],
+			"idle_name": "annoyed",
+			"anim": "annoyed",
+			"loop_offsets": [
+				-160,
+				0
+			]
+		},
+		{
+			"loop_name": "disgusted",
+			"idle_offsets": [
+				-160,
+				0
+			],
+			"idle_name": "disgusted",
+			"anim": "disgusted",
+			"loop_offsets": [
+				-160,
+				0
+			]
+		}
+	],
+	"image": "sashibop"
+}
