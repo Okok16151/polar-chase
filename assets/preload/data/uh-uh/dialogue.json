@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bran-d",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "I got you right where I want you!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tankm-d",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Oh shit--"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tankm-d",
+			"boxState": "normal",
+			"expression": "yea",
+			"text": "Alright, alright. I'll give up. I'll give you and your stupid girlfriend what you want. . ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tankm-d",
+			"boxState": "normal",
+			"expression": "yea",
+			"text": "If you beat me in a rap battle!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bran-d",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "That's gonna be your downfall, brother."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bran-d",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Rapping is my best talent! Hit it, Marsha!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cocoa-d",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "On it, sweetheart!"
+		}
+	]
+}
